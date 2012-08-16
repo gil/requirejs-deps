@@ -1,7 +1,7 @@
 requirejs-deps
 ==============
 
-Little RequireJS plugin to load all dependencies, from your "shim" configuration, before starting your app.
+Little [RequireJS](https://github.com/jrburke/requirejs/) plugin to load all dependencies, from your "shim" configuration, before starting your app.
 
 ## How?
 
